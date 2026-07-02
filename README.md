@@ -4,18 +4,27 @@
 
 ## Hey there! 🐰
 
-I'm Waez, a Cyberphysical Systems student.
-
-I mainly focus on developing with Python and exploring the intricacies of computer networks.
-
-I love building automation scripts, creating clean applications, and understanding how data flows across systems.
-
-Right now, I'm balancing my university studies with personal coding projects and expanding my tech stack.
-
-**PC Specs:**
-* **CPU:** Intel Core i9-12900K
-* **RAM:** 64 GB RAM
-* **GPU:** NVIDIA GeForce RTX 3060
+<table>
+  <tr>
+    <!-- Левая колонка с твоим текстом -->
+    <td valign="top">
+      <p>I'm Waez, a Cyberphysical Systems student.</p>
+      <p>I mainly focus on developing with Python and exploring the intricacies of computer networks.</p>
+      <p>I love building automation scripts, creating clean applications, and understanding how data flows across systems.</p>
+      <p>Right now, I'm balancing my university studies with personal coding projects and expanding my tech stack.</p>
+      <p><strong>PC Specs:</strong></p>
+      <ul>
+        <li><strong>CPU:</strong> Intel Core i9-12900K</li>
+        <li><strong>RAM:</strong> 64 GB RAM</li>
+        <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060</li>
+      </ul>
+    </td>
+    <!-- Правая колонка с сакурой -->
+    <td valign="top" width="250">
+      <img src="https://media.tenor.com/Oemdw4mumJAAAAAi/flower-pixel.gif" alt="Sakura" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## 📫 Connect with me
 - **Telegram:** [@onewaez]
