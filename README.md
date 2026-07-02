@@ -1,15 +1,18 @@
-# Hey there! I'm Waez 🚀
+## Hey there! 🐰
 
-I am a software enthusiast working with Python and diving deep into computer networks. I love automating tasks and understanding how data travels across the web.
+I'm Waez, a Cyberphysical Systems student.
 
-### 🧰 Core Skills
-- 🐍 **Python:** Scripting, automation, core development
-- 🌐 **Networking:** Understanding of OSI model, TCP/IP, and basic network administration
+I mainly focus on developing with Python and exploring the intricacies of computer networks.
 
-### 💻 Current Focus
-- Expanding Python backend skills
-- Experimenting with network scripts and automation tools
+I love building automation scripts, creating clean applications, and understanding how data flows across systems.
 
-### 📫 Let's Chat
+Right now, I'm balancing my university studies with personal coding projects and expanding my tech stack.
+
+**PC Specs:**
+* **CPU:** Intel Core i9-12900K
+* **RAM:** 64 GB RAM
+* **GPU:** NVIDIA GeForce RTX 3060
+
+## 📫 Connect with me
 - **Telegram:** [@onewaez]
 - **Email:** onewaezwork@gmail.com
