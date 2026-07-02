@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there! I'm Waez 🚀
 
-<!--
-**onewaez/onewaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software enthusiast working with Python and diving deep into computer networks. I love automating tasks and understanding how data travels across the web.
 
-Here are some ideas to get you started:
+### 🧰 Core Skills
+- 🐍 **Python:** Scripting, automation, core development
+- 🌐 **Networking:** Understanding of OSI model, TCP/IP, and basic network administration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Current Focus
+- Expanding Python backend skills
+- Experimenting with network scripts and automation tools
+
+### 📫 Let's Chat
+- **Telegram:** [@onewaez]
+- **Email:** onewaezwork@gmail.com
