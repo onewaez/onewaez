@@ -18,9 +18,10 @@
         <li><strong>RAM:</strong> 64 GB RAM</li>
         <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060</li>
       </ul>
-      <p><strong>LapTop Specs:</strong></p>
+      <p><strong>Laptop Specs:</strong></p>
+      <ul>
+        <li><strong>Model:</strong> MacBook Pro M5</li>
       </ul>
-        <li><strong>MacBook Pro M5</li>      
     </td>
     <!-- Правая колонка с сакурой -->
     <td valign="top" width="250">
