@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <!-- Левая колонка с твоим текстом -->
+    <!-- Левая колонка с текстом -->
     <td valign="top">
       <p>I'm Waez, a Cyberphysical Systems student.</p>
       <p>I mainly focus on developing with Python and exploring the intricacies of computer networks.</p>
@@ -19,6 +19,7 @@
         <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060</li>
       </ul>
       <p><strong>LapTop Specs:</strong></p>
+      </ul>
         <li><strong>MacBook Pro M5</li>      
     </td>
     <!-- Правая колонка с сакурой -->
