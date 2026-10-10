@@ -15,7 +15,6 @@
       <p><strong>PC Specs:</strong></p>
       <ul>
         <li><strong>GPU:</strong> MacBook Pro M5</li>
-   </tr>   
         <li><strong>CPU:</strong> Intel Core i9-12900K</li>
         <li><strong>RAM:</strong> 64 GB RAM</li>
         <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060</li>
