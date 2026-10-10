@@ -14,11 +14,12 @@
       <p>Right now, I'm balancing my university studies with personal coding projects and expanding my tech stack.</p>
       <p><strong>PC Specs:</strong></p>
       <ul>
-        <li><strong>GPU:</strong> MacBook Pro M5</li>
         <li><strong>CPU:</strong> Intel Core i9-12900K</li>
         <li><strong>RAM:</strong> 64 GB RAM</li>
         <li><strong>GPU:</strong> NVIDIA GeForce RTX 3060</li>
       </ul>
+      <p><strong>LapTop Specs:</strong></p>
+        <li><strong>MacBook Pro M5</li>      
     </td>
     <!-- Правая колонка с сакурой -->
     <td valign="top" width="250">
